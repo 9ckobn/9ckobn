@@ -15,10 +15,14 @@ Flutter & Python engineer. I take products from idea to release: AI/web3 mobile 
 - [tg_agent](https://github.com/9ckobn/tg_agent) — CLI for discovering active Telegram channels: semantic keyword expansion, LLM scoring, activity filtering (Telethon + local Ollama).
 - [musomatic-server](https://github.com/9ckobn/musomatic-server) + [musomatic-client](https://github.com/9ckobn/musomatic-client) — self-hosted lossless music API (parallel Tidal + Soulseek search, FLAC auto-upgrade to 24-bit) with a terminal client.
 
+**Own product**
+
+- [Zynerio](https://zynerio.com/) — VPN service built and operated solo, full cycle: backend, bot billing, infra. Try the bot: [@zynerio_vpn_bot](https://t.me/zynerio_vpn_bot).
+
 Background: 5 years of shipping, previously Unity/C# (mobile games, Telegram mini-apps with TON integration) — that history lives in the older repos below.
 
 ## Contact
 
-- Telegram: `@НИК`
+- Telegram: [@unitony](https://t.me/unitony)
 - Email: bergman.worker@gmail.com
 - Location: Kaliningrad (UTC+2), remote only
